@@ -1,5 +1,10 @@
 # HW-6-4-Iterators-and-Generator
 HW-6-4-NETOLOGY-Iterators-and-Generator
+===============!!!Cтатьи!!!===================
+https://habr.com/ru/articles/337314/
+https://sky.pro/media/raznicza-mezhdu-generatorami-i-iteratorami-v-python/
+https://senjun.ru/courses/python/chapters/python_chapter_0230/
+
 
 # Домашнее задание к лекции 2. «Iterators. Generators. Yield»
 
